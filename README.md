@@ -6,7 +6,10 @@
 
 I'm a **B.Tech Biotechnology student at Dr. B. R. Ambedkar National Institute of Technology, Jalandhar (NIT Jalandhar)**, interested in both the **experimental and computational sides of biotechnology**.
 
-I enjoy working with **Machine Learning, Deep Learning, Computer Vision, Genomics, and biological data**, but I also want to build strong hands-on experience in **wet-lab research and core biotechnology**.
+I enjoy working with **Machine Learning, Deep Learning, Computer Vision, Genomics, and biological data**, but I also want to 
+
+
+build strong hands-on experience in **wet-lab research and core biotechnology**.
 
 My research interests currently include **tissue culture, 
 genomics, cancer biology**,

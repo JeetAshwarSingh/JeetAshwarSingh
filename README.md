@@ -2,7 +2,6 @@
 
 <img width="2627" height="2496" alt="IMG_8533" src="https://github.com/user-attachments/assets/42de19e9-e5f6-4082-a16f-8f105181afb0" />
 
-<img src="/profile.jpg" alt="Jeet Ashwar Singh - Biotechnology student and AI researcher" width="180" align="right">
 
 ### Biotechnology Student • DL/ML Researcher • Genomics & Cancer Research Enthusiast
 

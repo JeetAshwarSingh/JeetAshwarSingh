@@ -174,7 +174,7 @@ FedBlock explores how healthcare institutions could collaboratively train machin
 
 ---
 
-# What I Want To Explore
+# What I am Exploring
 
 I'm especially interested in opportunities where I can work on **real biological problems**, rather than only benchmark datasets.
 

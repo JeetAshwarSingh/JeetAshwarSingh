@@ -1,6 +1,6 @@
-# Hi, I'm Jeet Ashwar Singh 👋
+# Jeet Ashwar Singh 
 
-<!-- Replace with your image -->
+<img width="2627" height="2496" alt="IMG_8533" src="https://github.com/user-attachments/assets/42de19e9-e5f6-4082-a16f-8f105181afb0" />
 
 <img src="IMG_8533.jpeg" alt="Jeet Ashwar Singh - Biotechnology student and AI researcher" width="180" align="right">
 

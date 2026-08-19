@@ -2,7 +2,7 @@
 
 ### Biotechnology Student • DL/ML Researcher • Genomics & Cancer Research Enthusiast
 
-<img src="./profile.jpg" alt="Jeet Ashwar Singh - Biotechnology student and AI researcher" width="180" align="right">
+<img src="IMG_8533.jpeg" alt="Jeet Ashwar Singh - Biotechnology student and AI researcher" width="180" align="right">
 
 I'm a **B.Tech Biotechnology student at Dr. B. R. Ambedkar National Institute of Technology, Jalandhar (NIT Jalandhar)**, interested in both the **experimental and computational sides of biotechnology**.
 

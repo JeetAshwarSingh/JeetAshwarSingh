@@ -2,7 +2,7 @@
 
 <!-- Replace with your image -->
 
-<img src="./profile.jpg" alt="Jeet Ashwar Singh - Biotechnology student and AI researcher" width="180" align="right">
+<img src="IMG_9354.JPG" alt="Jeet Ashwar Singh - Biotechnology student and AI researcher" width="180" align="right">
 
 ### Biotechnology Student • DL/ML Researcher • Genomics & Cancer Research Enthusiast
 
